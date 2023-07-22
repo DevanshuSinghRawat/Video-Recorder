@@ -1,4 +1,4 @@
-# z1
+# Video-Recorder
 This is a small fun project using Python
 I have used here OpenCV library
 The project when run opens the front camera and starts recording automatically
